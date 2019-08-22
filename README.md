@@ -27,9 +27,16 @@ SUMMER WINTER
 
 To use Facebook's Prophet procedure to model the data, the dataframe has to have 2 columns: The date (as type datetime) with column header 'ds', and the dependent variable one is predicting with column header 'y'.
 
+DATAFRAME
 
+For this analysis I split the data at 8/3/2017 to predict the last year of energy consumption using Prophet. Below are the trend, weekly, yearly, and daily components as determined by the model. 
 
-For this analysis I split the data at 8/3/2017 to predict the last year of energy consumption using Prophet. 
+COMPONENTS
+
+It uses these components along with outlier handling to predict the last year of data (blue). Adding the actuals (red) one can see that the model generally captures the trend pretty well. 
+
+PROPHET PREDICTIONS
+
 
 
 
