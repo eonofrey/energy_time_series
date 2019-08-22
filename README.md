@@ -33,7 +33,7 @@ For this analysis I split the data at 8/3/2017 to predict the last year of energ
 
 COMPONENTS
 
-It uses these components along with outlier handling to predict the last year of data (blue). Adding the actuals (red) one can see that the model generally captures the trend pretty well. 
+It uses these components along with outlier handling to predict the last year of data (blue). Adding the actuals (red) one can see that the model generally captures the trend pretty well and ends up with a mean average error of 3785 megawatts.
 
 PROPHET PREDICTIONS
 
