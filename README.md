@@ -1,4 +1,4 @@
-# energy_time_series
+# Energy Time Series Analysis 
 
 The below is a quick predictive analysis I did using Facebook's Prophet module. Prophet is a procedure for forecasting time series data that fits non-linear trends to data with yearly, weekly, and daily seasonality; it will even handle holiday effects. On top of all of this it has outlier handeling and is robust to missing data and trend shifts. 
 
