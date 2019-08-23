@@ -16,7 +16,7 @@ A pairplot looking at the hour, week_of_year, and year varaibles shows some tren
 
 Plotting the average energy consumption by month one sees a very clear increase in the summer (air conditioning) and winter (shorter days and heating). Plotting the avg. energy consumption by day of the year shows a similar, more preceise view. 
 
-<img width="536" alt="Screen Shot 2019-08-21 at 8 49 32 PM" src="https://user-images.githubusercontent.com/38504767/63557592-68855900-c517-11e9-976c-5e0b4b79c48f.png"> <img width="545" alt="Screen Shot 2019-08-21 at 9 23 38 PM" src="https://user-images.githubusercontent.com/38504767/63557597-6c18e000-c517-11e9-8c09-55a897d3ad56.png">
+<img width="966" alt="Screen Shot 2019-08-22 at 8 13 15 PM" src="https://user-images.githubusercontent.com/38504767/63558062-50aed480-c519-11e9-8543-5f5fdb746e30.png">
 
 THe below charts show hourly energy consumption, but separate the trends by summer and winter. The summer trends make sense, as the day goes on and gets hotter, people'e AC units have to use more energy to keep their houses cool. In winter, however, there is a small dip in energy consumption around 3pm. My two theories for this are: 1) This is the hottest part of the day so it takes less energy to heat the house 2) Kids have not gotten home yet from school. When they get home the energy consumption spikes. 
 
