@@ -18,7 +18,7 @@ Plotting the average energy consumption by month one sees a very clear increase 
 
 <img width="966" alt="Screen Shot 2019-08-22 at 8 13 15 PM" src="https://user-images.githubusercontent.com/38504767/63558062-50aed480-c519-11e9-8543-5f5fdb746e30.png">
 
-THe below charts show hourly energy consumption, but separate the trends by summer and winter. The summer trends make sense, as the day goes on and gets hotter, people'e AC units have to use more energy to keep their houses cool. In winter, however, there is a small dip in energy consumption around 3pm. My two theories for this are: 1) This is the hottest part of the day so it takes less energy to heat the house 2) Kids have not gotten home yet from school. When they get home the energy consumption spikes. 
+The below charts show hourly energy consumption, but separate the trends by summer and winter. The summer trends make sense, as the day goes on and gets hotter, people'e AC units have to use more energy to keep their houses cool. In winter, however, there is a small dip in energy consumption around 3pm. My two theories for this are: 1) This is the hottest part of the day so it takes less energy to heat the house 2) Kids have not gotten home yet from school. When they get home the energy consumption spikes. 
 
 <img width="923" alt="Screen Shot 2019-08-21 at 8 49 53 PM" src="https://user-images.githubusercontent.com/38504767/63557614-8357cd80-c517-11e9-93b8-65b820976c85.png">
 
