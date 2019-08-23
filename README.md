@@ -32,7 +32,7 @@ For this analysis I split the data at 8/3/2017 to predict the last year of energ
 <img width="644" alt="Screen Shot 2019-08-21 at 8 52 44 PM" src="https://user-images.githubusercontent.com/38504767/63557670-a6827d00-c517-11e9-8e2b-49467997e54b.png">
 <img width="646" alt="Screen Shot 2019-08-21 at 8 52 54 PM" src="https://user-images.githubusercontent.com/38504767/63557678-a7b3aa00-c517-11e9-8ddd-ba5adebfd16d.png">
 
-It uses these components along with outlier handling to predict the last year of data (blue). Adding the actuals (red) one can see that the model generally captures the trend pretty well and ends up with a mean average error of 3785 megawatts.
+It uses these components along with outlier handling to predict the last year of data (blue). Adding the actuals (red), one can see that the model generally captures the trend pretty well and ends up with a mean average error of 3785 megawatts.
 
 
 <img width="993" alt="Screen Shot 2019-08-21 at 8 52 25 PM" src="https://user-images.githubusercontent.com/38504767/63557698-c154f180-c517-11e9-86c5-6bd2032de74a.png">
